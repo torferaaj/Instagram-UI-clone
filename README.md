@@ -6,8 +6,9 @@ Instagram clone application
 
 This project is a starting point for a Flutter application.
 
-Screen shots:
-https://ibb.co/YTYfpzD
+# Screenshot
+
+![insta-project-github](https://user-images.githubusercontent.com/55645585/192434383-04b10c27-79a8-48dc-838f-f35472bff509.jpeg)
 
 A few resources to get you started if this is your first Flutter project:
 
