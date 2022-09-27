@@ -1,4 +1,4 @@
-# instagram
+# instagram UI clone
 
 Instagram clone application
 
