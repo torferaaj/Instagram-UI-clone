@@ -8,7 +8,7 @@ This project is a starting point for a Flutter application.
 
 # Screenshot
 
-![insta-project-github](https://user-images.githubusercontent.com/55645585/192434383-04b10c27-79a8-48dc-838f-f35472bff509.jpeg)
+![insta-project-github](https://user-images.githubusercontent.com/55645585/192451254-a1ae9214-def5-479e-aa1a-7a1cb3f6c638.jpeg)
 
 A few resources to get you started if this is your first Flutter project:
 
